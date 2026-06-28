@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "nacho lastra",
+        "telefono": "612345678",
+        "email": "nacho@icloud.com",
+        "gasto_mensual": 150.0,
+        "tipo_cliente": "residencial",
+        "fecha_registro": "2026-06-19T19:53:21.971Z"
+    },
+    {
+        "nombre": "matias lastra",
+        "telefono": "612345678",
+        "email": "nacho@icloud.com",
+        "gasto_mensual": 1500.0,
+        "tipo_cliente": "industrial",
+        "fecha_registro": "2026-06-19T19:54:13.463Z"
+    },
+    {
+        "nombre": "joaquin lastra",
+        "telefono": "612345678",
+        "email": "nacho@icloud.com",
+        "gasto_mensual": 1500.0,
+        "tipo_cliente": "industrial",
+        "fecha_registro": "2026-06-19T19:54:21.064Z"
+    },
+    {
+        "nombre": "joaquin lastra",
+        "telefono": "612345678",
+        "email": "nacho@icloud.com",
+        "gasto_mensual": 150.0,
+        "tipo_cliente": "residencial",
+        "fecha_registro": "2026-06-19T19:58:43.571Z"
+    },
+    {
+        "nombre": "Matias lastra",
+        "telefono": "612345699",
+        "email": "nacho@icloud.com",
+        "gasto_mensual": 100.0,
+        "tipo_cliente": "industrial",
+        "fecha_registro": "2026-06-19T20:01:25.083Z"
+    }
+]

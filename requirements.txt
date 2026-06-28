@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydantic
+pymongo==4.6.1
