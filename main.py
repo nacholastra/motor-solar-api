@@ -20,11 +20,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-MONGO_URI = os.getenv("MONGO_URI", "")
-client = MongoClient(MONGO_URI)
-db = client["solar_saas_db"]
-empresas_collection = db["empresas"]
-leads_collection = db["leads"]
+#MONGO_URI = os.getenv("MONGO_URI", "")
+#client = MongoClient(MONGO_URI)
+#db = client["solar_saas_db"]
+#empresas_collection = db["empresas"]
+#leads_collection = db["leads"]
 
 class EmpresaRegistro(BaseModel):
     nombre_empresa: str
